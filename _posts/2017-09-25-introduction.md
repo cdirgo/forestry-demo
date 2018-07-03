@@ -9,7 +9,7 @@ tags:
 - Demo
 - Forestry
 layout: post
-banner_image: ''
+banner_image: "/uploads/2017/11/14/andrew-robles-300868.jpg"
 ---
 Welcome to the Belkirk College of Engineering Demo Site!
 
