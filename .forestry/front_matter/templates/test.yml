@@ -1,0 +1,9 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  config:
+    required: true
+  label: Main
+  name: main
